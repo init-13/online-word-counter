@@ -28,9 +28,7 @@ h1.headf:hover{ color: #facaa2;
       							0 0 42px #0fa;}
 .sign{color:#000000;}
 h3.sign:hover{ color: #0000FF;
-			font-size:88px;
-    transition: all 500ms;
-    font-size-adjust: 20px;}
+			font-size:4 rem;}
 
 
 		  textarea { 
