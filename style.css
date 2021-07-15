@@ -19,13 +19,15 @@
 		  	
 
 		  }
-h1.headf: hover{ color: #facaa2;
+h1.headf:hover{ color: #facaa2;
   				text-shadow:
       							0 0 7px #fff,
       							0 0 10px #fff,
       							0 0 21px #fff,
       							0 0 42px #0fa;}
-h3.sign: hover{ color: #0000FF;}
+
+h3.sign:hover{ color: #0000FF;}
+
 
 		  textarea { 
 
